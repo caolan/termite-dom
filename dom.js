@@ -2,7 +2,7 @@ define([
     'exports',
     'qwery',
     'bean',
-    './lib/html'
+    './html'
 ],
 function (exports, qwery, bean, html) {
 
