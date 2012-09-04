@@ -1,0 +1,12 @@
+{
+    "name": "termite-dom",
+    "version": "0.0.1",
+    "description": "Termite process for interacting with the DOM",
+    "jam": {
+        "main": "dom.js",
+        "dependencies": {
+            "qwery": "3.3.11",
+            "bean": "0.4.11-1"
+        }
+    }
+}
